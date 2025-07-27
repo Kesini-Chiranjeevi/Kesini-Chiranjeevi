@@ -1,4 +1,4 @@
-<h3 align="center">A Passionate Frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
